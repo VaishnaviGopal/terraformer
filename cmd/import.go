@@ -104,7 +104,7 @@ func Import(provider terraformutils.ProviderGenerator, options ImportOptions, ar
 					log.Println("Excluding resource " + e)
 				}
 			}
-			if remove != true {
+			if !remove {
 				localSlice = append(localSlice, r)
 			}
 		}
