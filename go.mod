@@ -10,16 +10,18 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.10.0
 	github.com/Azure/go-autorest/autorest v0.11.12
 	github.com/DataDog/datadog-api-client-go v1.0.0-beta.14
-	github.com/IBM-Cloud/bluemix-go v0.0.0-20201210085054-cdf09378fdd9
+	github.com/IBM-Cloud/bluemix-go v0.0.0-20210419045805-b50610722085
 	github.com/IBM/go-sdk-core/v3 v3.3.1
 	github.com/IBM/go-sdk-core/v4 v4.9.0
+	github.com/IBM/go-sdk-core/v5 v5.4.0 // indirect
 	github.com/IBM/ibm-cos-sdk-go v1.5.0
 	github.com/IBM/keyprotect-go-client v0.5.2
 	github.com/IBM/networking-go-sdk v0.12.1
-	github.com/IBM/vpc-go-sdk v0.3.1
+	github.com/IBM/vpc-go-sdk v0.4.2
 	github.com/OctopusDeploy/go-octopusdeploy v1.6.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible
+	github.com/apache/openwhisk-client-go v0.0.0-20210313152306-ea317ea2794c
 	github.com/aws/aws-sdk-go v1.36.19
 	github.com/aws/aws-sdk-go-v2 v0.24.0
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
@@ -55,7 +57,7 @@ require (
 	github.com/zclconf/go-cty v1.7.0
 	github.com/zorkian/go-datadog-api v2.30.0+incompatible
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/text v0.3.4
+	golang.org/x/text v0.3.5
 	gonum.org/v1/gonum v0.7.0
 	google.golang.org/api v0.36.0
 	google.golang.org/genproto v0.0.0-20201210142538-e3217bee35cc
