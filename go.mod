@@ -10,7 +10,7 @@ require (
 	github.com/Azure/azure-storage-blob-go v0.10.0
 	github.com/Azure/go-autorest/autorest v0.11.12
 	github.com/DataDog/datadog-api-client-go v1.0.0-beta.14
-	github.com/IBM-Cloud/bluemix-go v0.0.0-20201210085054-cdf09378fdd9
+	github.com/IBM-Cloud/bluemix-go v0.0.0-20210419045805-b50610722085
 	github.com/IBM/go-sdk-core/v3 v3.3.1
 	github.com/IBM/go-sdk-core/v4 v4.9.0
 	github.com/IBM/ibm-cos-sdk-go v1.5.0
@@ -20,6 +20,7 @@ require (
 	github.com/OctopusDeploy/go-octopusdeploy v1.6.0
 	github.com/aliyun/alibaba-cloud-sdk-go v1.60.295
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible
+	github.com/apache/openwhisk-client-go v0.0.0-20210313152306-ea317ea2794c
 	github.com/aws/aws-sdk-go v1.36.19
 	github.com/aws/aws-sdk-go-v2 v0.24.0
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
@@ -42,7 +43,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/jonboydell/logzio_client v1.2.0
 	github.com/labd/commercetools-go-sdk v0.0.0-20200309143931-ca72e918a79d
-	github.com/linode/linodego v0.24.1
+	github.com/linode/linodego v0.28.1
 	github.com/mrparkers/terraform-provider-keycloak v0.0.0-20200506151941-509881368409
 	github.com/ns1/ns1-go v2.4.0+incompatible
 	github.com/paultyng/go-newrelic/v4 v4.10.0
